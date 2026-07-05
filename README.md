@@ -30,8 +30,8 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 ### 📊 GitHub Activity & Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mriskisyahputraa2&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Riski's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriskisyahputraa2&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mriskisyahputraa2&theme=github_dark&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/icon-overview?username=mriskisyahputraa2&theme=github_dark" alt="Overview" />
 </p>
 
 ---
