@@ -5,24 +5,15 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-*   **PanganKU (Integrated E-Grocery Ecosystem)**
-    *   Engineered a dual-platform delivery system featuring a high-performance mobile client app using **Flutter**, seamlessly integrated with a robust vendor management dashboard powered by **Laravel**.
-*   **UKM POLICY Platform**
-    *   Led the end-to-end design and implementation of the official community platform, optimizing member data systems, event workflows, and blogging features.
-*   **UPZIS PNL Donation System**
-    *   Designed and deployed a secure digitalized donation platform for the Zakat management unit at PNL, modernizing manual processes into a streamlined online experience.
-
----
-
 ### 🛠️ Core Technologies & Tools
 
 | Category | Tech Stack & Tools |
 | :--- | :--- |
 | **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,flutter,vue,express,django,fastapi,hono" alt="Frameworks" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,py" alt="Languages" /> |
-| **Backend, Cloud & Ops** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,linux,kali,git" alt="Backend & Ops" /> |
+| **Backend & Cloud Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" alt="Databases" /> |
+| **Infrastructure & DevOps** | <img src="https://skillicons.dev/icons?i=linux,kali,git" alt="Infrastructure" /> |
+| **Management & Methodology** | <img src="https://skillicons.dev/icons?i=jira" alt="Management" /> *Agile Methodology & CI/CD Pipelines* |
 | **AI & UI Design** | <img src="https://skillicons.dev/icons?i=py,tailwind,bootstrap,figma" alt="AI & UI" /> |
 
 *Integrated Skills: RESTful APIs Development & Architecture.*
@@ -37,13 +28,13 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Card (Menggunakan Server Alternatif yang Lebih Stabil) -->
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=mriskisyahputraa2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Riski's GitHub Stats" width="100%" />
+  <!-- GitHub Profile Details - Alternatif Terbaik yang Sangat Stabil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriskisyahputraa2&theme=tokyonight" alt="Riski's GitHub Stats" width="100%" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 📈 My Coding Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake-dark.svg">
@@ -56,13 +47,13 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-rizki-syahputraaa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com" target="_blank">
+  <a href="mailto:riskideveloper2@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+  <a href="https://www.instagram.com/mrizkisyahputraa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>
