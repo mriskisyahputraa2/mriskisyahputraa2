@@ -1,8 +1,11 @@
-# Hi, I'm Muhammad Rizki Syahputra 👋
+<p align="center">
+  <!-- 4. Banner Nama Penuh & 1. Posisi Tengah -->
+  <img src="https://capsule-render.herokuapp.com/type=waving&color=auto&theme=tokyonight&height=220&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=35&animation=fadeIn" alt="Riski's Banner" width="100%" />
+</p>
 
 <p align="center">
-  <!-- Banner Background yang Cakep & Teks Berjalan Interaktif -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&background=1A1B27&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Mobile+Developer;AI+%2F+ML+Developer;Open+for+Collaboration!+" alt="Typing SVG Banner" />
+  <!-- 5. Teks Berjalan Tanpa Banner Background (Clean & Stylized) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;Mobile+Developer;AI+%2F+ML+Developer;Open+for+Collaboration!+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,8 +39,8 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40"/> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/> <img src="https://skillicons.dev/icons?i=php" title="PHP" height="40"/> <img src="https://skillicons.dev/icons?i=py" title="Python" height="40"/> |
 | **Backend & Cloud Databases** | <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40"/> <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="40"/> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40"/> |
 | **Infrastructure & DevOps** | <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"/> <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" height="40"/> <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/> |
-| **Management & Methodology** | <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" title="Jira" height="40"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" height="40"/> <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab CI/CD" height="40"/> <img src="https://skillicons.dev/icons?i=scrum" title="Agile Scrum" height="40"/> |
-| **AI & UI Design** | <img src="https://skillicons.dev/icons?i=py" title="Machine Learning (Python)" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="40"/> <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40"/> |
+| **Management & Methodology** | <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" title="Jira" height="40"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" height="40"/> <img src="https://skillicons.dev/icons?i=scrum" title="Agile Scrum" height="40"/> |
+| **UI/UX Design** | <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="40"/> <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40"/> |
 
 *Integrated Skills: RESTful APIs Development & Architecture.*
 
