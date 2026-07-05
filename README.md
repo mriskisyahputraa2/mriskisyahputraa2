@@ -12,7 +12,7 @@ A passionate **Full-Stack & Mobile Developer** who loves building clean, scalabl
 - 🎓 **Education:** Information Technology Student
 - 💼 **Focus:** Web Application Architecture & Cross-Platform Mobile Apps
 - 🌱 **Current Interests:** RESTful APIs, Cloud Integration, and AI-Powered Web Tools
-- ✉️ **How to reach me:** `your.email@example.com` (Ubah dengan email kamu)
+- ✉️ **How to reach me:** riskideveloper2@gmail.com  
 
 ---
 
