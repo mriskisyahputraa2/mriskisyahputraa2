@@ -1,4 +1,7 @@
-<h1 align="center">Muhammad Rizki Syahputra</h1>
+<p align="center">
+  <!-- GitHub Profile Banner Header - Dijamin Muncul Tanpa Pecah -->
+  <img src="https://capsule-render.herokuapp.com/type=waving&color=auto&theme=tokyonight&height=220&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=35&animation=fadeIn" alt="Riski's Banner" width="100%" />
+</p>
 
 <p align="center">
   <!-- Teks Berjalan Tanpa Latar Belakang Kotak -->
