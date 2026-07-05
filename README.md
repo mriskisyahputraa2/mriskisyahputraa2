@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- GitHub Profile Banner Header - Dijamin Muncul Tanpa Pecah -->
-  <img src="https://capsule-render.herokuapp.com/type=waving&color=auto&theme=tokyonight&height=220&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=35&animation=fadeIn" alt="Riski's Banner" width="100%" />
+  <!-- GitHub Profile Banner Header - Menggunakan Server Vercel yang Pasti Muncul & Gradasi Keren -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Riski's Banner" width="100%" />
 </p>
 
 <p align="center">
