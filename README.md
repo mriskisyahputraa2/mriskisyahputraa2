@@ -28,12 +28,26 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 ---
 
 ### 📊 GitHub Activity & Insights
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mriskisyahputraa2&theme=github_dark&utcOffset=7" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/icon-overview?username=mriskisyahputraa2&theme=github_dark" alt="Overview" />
+<p align="center">
+  <!-- GitHub Streak Stats (Kartu Api di Atas) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriskisyahputraa2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
+<p align="center">
+  <!-- GitHub Stats Card (Grafik Ungu di Bawah) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mriskisyahputraa2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Riski's GitHub Stats" width="100%" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<!-- Animasi ular berjalan memakan commit -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ### 🌐 Connect With Me
