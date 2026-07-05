@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Rizki Syahputra👋
+# Hi there, I'm Riski 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mriskisyahputraa2&color=007ACC&style=flat-square" alt="Profile Views" />
