@@ -23,7 +23,7 @@
 
 </div>
 
-> Software Engineer with a solid foundation in architecting scalable web applications, robust backend services, and high-performance cross-platform mobile systems. Dedicated to writing clean, maintainable code, designing resilient database architectures, and applying Agile engineering practices to deliver impactful digital solutions.
+> Software Engineer with a solid foundation in architecting scalable web applications, robust backend services, and high-performance cross-platform mobile systems[cite: 1]. Dedicated to writing clean, maintainable code, designing resilient database architectures, and applying Agile engineering practices to deliver impactful digital solutions[cite: 1].
 
 ---
 
@@ -37,35 +37,70 @@
 | **Infrastructure & Tools** | [![Skill Icons](https://skillicons.dev/icons?i=linux,kali,git,postman)](https://skillicons.dev) <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" height="40" alt="Jira" /> |
 | **UI/UX Design** | [![Skill Icons](https://skillicons.dev/icons?i=tailwind,bootstrap,figma)](https://skillicons.dev) |
 
-*Integrated Skills: RESTful APIs Development, Architecture, and Agile Workflows.*
+*Integrated Skills: RESTful APIs Development, Database Architecture, and Agile/Scrum Workflows.*[cite: 1]
 
 ---
 
 ### 🚀 Featured Projects
 
-- **PanganKU**
-  > Integrated e-grocery ecosystem comprising a cross-platform mobile application for customers and a web dashboard for inventory management, powered by secure RESTful APIs.
-  `Flutter` `Laravel` `Inertia.js` `React` `MySQL`
-
-- **UPZIS PNL Information System**
-  > Digitalized donation platform featuring automated Zakat calculations, payment gateway integration, and an administrative back-office with real-time financial reporting.
-  `Laravel` `React.js` `Tailwind CSS` `RESTful APIs` `MySQL`
-
-- **UKM POLICY Community Platform**
-  > Official community and blogging web platform built with full-stack architecture, developed under Agile/Scrum project management.
-  `Laravel` `React.js` `Tailwind CSS` `MySQL` `Jira`
-
-- **Kasir Internet (POS)**
-  > Point-of-sale system featuring strict Role-Based Access Control (RBAC) across Owners, Distributors, and Cashiers with automated financial and loss-prevention tracking.
-  `Laravel` `Bootstrap` `MySQL` `RBAC`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛒 PanganKU</h3>
+      <p>Integrated e-grocery ecosystem comprising a cross-platform mobile application for clients and an administrative web dashboard for inventory tracking[cite: 1].</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">💳 UPZIS PNL System</h3>
+      <p>Digital donation platform with automated Zakat calculations, payment gateway integrations, and real-time financial reporting (PDF/Excel)[cite: 1].</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="API"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 UKM POLICY Platform</h3>
+      <p>Official community portal and tech blogging platform engineered under end-to-end SDLC and Agile/Scrum methodologies[cite: 1].</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">💼 Kasir Internet (POS)</h3>
+      <p>Web-based POS system with Role-Based Access Control (RBAC) across multi-tiered users and automated cash flow tracking[cite: 1].</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/RBAC-Auth-blue?style=flat-square" alt="RBAC"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- <img src="https://img.shields.io/badge/BNSP-Certified_Web_Developer-22c55e?style=flat-square&logo=badge&logoColor=white" alt="Certified Web Developer" /> **Badan Nasional Sertifikasi Profesi (BNSP)**
-- <img src="https://img.shields.io/badge/BNSP_x_DTS-Certified_Junior_Web_Developer-3b82f6?style=flat-square&logo=badge&logoColor=white" alt="Certified Junior Web Developer" /> **BNSP & Digital Talent Scholarship**
-- <img src="https://img.shields.io/badge/LKS_National-Finalist_Web_Technologies-f59e0b?style=flat-square&logo=trophy&logoColor=white" alt="LKS Finalist" /> **Lomba Kompetensi Siswa (LKS) Tingkat Nasional**
+| Credential | Issuing Organization | Verification Link |
+| :--- | :--- | :---: |
+| **Certified Web Developer**[cite: 1] | Badan Nasional Sertifikasi Profesi (BNSP)[cite: 1] | [🔗 Verify Credential](https://www.linkedin.com/in/muhammad-rizki-syahputraaa/overlay/Certifications/12623654/treasury/?profileId=ACoAAEKXiRYB2qEMS7IKBkj_FRHqIzqOtW7_47I) |
+| **Certified Junior Web Developer**[cite: 1] | BNSP & Digital Talent Scholarship (DTS)[cite: 1] | [🔗 Verify Credential](https://www.linkedin.com/in/muhammad-rizki-syahputraaa/overlay/Certifications/12531942/treasury/?profileId=ACoAAEKXiRYB2qEMS7IKBkj_FRHqIzqOtW7_47I) |
+| **National Finalist in Web Technologies**[cite: 1] | Lomba Kompetensi Siswa (LKS) Tingkat Nasional[cite: 1] | [🔗 View Honor](https://www.linkedin.com/in/muhammad-rizki-syahputraaa/overlay/Honor/1538266519/treasury/?profileId=ACoAAEKXiRYB2qEMS7IKBkj_FRHqIzqOtW7_47I) |
+| **Participant - Marketing Competition**[cite: 1] | "Aneuk Aceh Berani" Hosted by Pertamina[cite: 1] | [🔗 View Honor](https://www.linkedin.com/in/muhammad-rizki-syahputraaa/overlay/Honor/1540548105/treasury/?profileId=ACoAAEKXiRYB2qEMS7IKBkj_FRHqIzqOtW7_47I) |
 
 ---
 
