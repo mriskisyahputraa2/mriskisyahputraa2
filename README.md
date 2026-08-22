@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- GitHub Profile Banner Header - Menggunakan Server Vercel yang Pasti Muncul & Gradasi Keren -->
+  <!-- GitHub Profile Banner Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Riski's Banner" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Teks Berjalan Tanpa Latar Belakang Kotak -->
+  <!-- Teks Berjalan -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;Mobile+Developer;AI+%2F+ML+Developer;Open+for+Collaboration!+" alt="Typing SVG" />
 </p>
 
@@ -41,7 +41,24 @@ I bridge backend efficiency with smooth, modern frontends to solve real-world pr
 | **Infrastructure & Tools** | <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"/> <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" height="40"/> <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" title="Jira (Project Management)" height="40"/> |
 | **UI/UX Design** | <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="40"/> <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40"/> |
 
-*Integrated Skills: RESTful APIs Development, Architecture, and Agile Workflows.*
+*Integrated Skills: RESTful APIs Development, Database Architecture, and Agile/Scrum Workflows.*
+
+---
+
+### 🚀 Featured Projects
+
+- 🛒 **[PanganKU](https://github.com/mriskisyahputraa2)** — Integrated e-grocery ecosystem featuring a cross-platform mobile app (*Flutter*) for customers and a web dashboard (*Laravel & React via Inertia.js*) with secure RESTful APIs and real-time inventory management.
+- 💳 **[UPZIS PNL Information System](https://github.com/mriskisyahputraa2)** — Digitalized donation platform incorporating automated Zakat calculators, payment gateways (*GoPay, Dana, Cash*), and an administrative back-office with real-time financial reporting (*PDF/Excel*).
+- 🌐 **[UKM POLICY Community Platform](https://github.com/mriskisyahputraa2)** — Official community and blogging web platform built with *Laravel, React.js, Tailwind CSS, and MySQL*, managed end-to-end under Agile workflows.
+- 💼 **[Kasir Internet (POS)](https://github.com/mriskisyahputraa2)** — Point-of-sale system featuring strict Role-Based Access Control (RBAC) across Owners, Distributors, and Cashiers with automated cash flow and loss-prevention tracking.
+
+---
+
+### 🏆 Certifications & Achievements
+
+- 📜 **Certified Web Developer** – Badan Nasional Sertifikasi Profesi (BNSP)
+- 📜 **Certified Junior Web Developer** – BNSP & Digital Talent Scholarship (DTS)
+- 🥇 **National Finalist in Web Technologies** – Lomba Kompetensi Siswa (LKS) National Level
 
 ---
 
