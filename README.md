@@ -1,69 +1,69 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35)" alt="Riski's Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rizki%20Syahputra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Riski's Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Full-Stack+Web+%26+Mobile+Developer;Cloud+%26+Backend+Architecture;Open+for+Collaboration](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Full-Stack+Web+%26+Mobile+Developer;Cloud+%26+Backend+Architecture;Open+for+Collaboration)!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Full-Stack+Web+%26+Mobile+Developer;Cloud+%26+Backend+Architecture;Open+for+Collaboration!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/muhammad-rizki-syahputraaa/](https://www.linkedin.com/in/muhammad-rizki-syahputraaa/)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/muhammad-rizki-syahputraaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mrizkisyahputraa02@gmail.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.instagram.com/mrizkisyahputraa/](https://www.instagram.com/mrizkisyahputraa/)" target="_blank">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" />
+  <a href="https://www.instagram.com/mrizkisyahputraa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://www.threads.com/@mrizkisyahputraa?hl=id](https://www.threads.com/@mrizkisyahputraa?hl=id)" target="_blank">
-    <img src="[https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)" alt="Threads" />
+  <a href="https://www.threads.com/@mrizkisyahputraa?hl=id" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=mriskisyahputraa2&color=38B2AC&style=flat-square](https://komarev.com/ghpvc/?username=mriskisyahputraa2&color=38B2AC&style=flat-square)" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mriskisyahputraa2&color=38B2AC&style=flat-square" alt="Profile Views" />
 </p>
 
-Software Engineer with a solid foundation in architecting scalable web applications, robust backend services, and high-performance cross-platform mobile systems. Dedicated to writing clean, maintainable code, designing resilient database architectures, and applying Agile engineering practices to deliver impactful digital solutions.
+Software Engineer with a solid foundation in architecting scalable web applications, robust backend services, and high-performance cross-platform mobile systems[cite: 1]. Dedicated to writing clean, maintainable code, designing resilient database architectures, and applying Agile engineering practices to deliver impactful digital solutions[cite: 1].
 
 ---
 
 ### 🛠️ Core Technologies & Tools
 
-| Category | Tech Stack & Tools (Hover for details) |
+| Category | Tech Stack & Tools |
 | :--- | :--- |
-| **Frameworks & Runtimes** | <img src="[https://skillicons.dev/icons?i=laravel](https://skillicons.dev/icons?i=laravel)" title="Laravel" height="40"/> <img src="[https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)" title="React.js" height="40"/> <img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" title="Next.js" height="40"/> <img src="[https://skillicons.dev/icons?i=nodejs](https://skillicons.dev/icons?i=nodejs)" title="Node.js" height="40"/> <img src="[https://skillicons.dev/icons?i=flutter](https://skillicons.dev/icons?i=flutter)" title="Flutter" height="40"/> <img src="[https://skillicons.dev/icons?i=vue](https://skillicons.dev/icons?i=vue)" title="Vue.js" height="40"/> <img src="[https://skillicons.dev/icons?i=express](https://skillicons.dev/icons?i=express)" title="Express.js" height="40"/> <img src="[https://skillicons.dev/icons?i=django](https://skillicons.dev/icons?i=django)" title="Django" height="40"/> <img src="[https://skillicons.dev/icons?i=fastapi](https://skillicons.dev/icons?i=fastapi)" title="FastAPI" height="40"/> <img src="[https://skillicons.dev/icons?i=hono](https://skillicons.dev/icons?i=hono)" title="Hono.js" height="40"/> |
-| **Languages** | <img src="[https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts)" title="TypeScript" height="40"/> <img src="[https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js)" title="JavaScript" height="40"/> <img src="[https://skillicons.dev/icons?i=php](https://skillicons.dev/icons?i=php)" title="PHP" height="40"/> <img src="[https://skillicons.dev/icons?i=py](https://skillicons.dev/icons?i=py)" title="Python" height="40"/> |
-| **Backend & Cloud Databases** | <img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" title="MySQL" height="40"/> <img src="[https://skillicons.dev/icons?i=postgres](https://skillicons.dev/icons?i=postgres)" title="PostgreSQL" height="40"/> <img src="[https://skillicons.dev/icons?i=mongodb](https://skillicons.dev/icons?i=mongodb)" title="MongoDB" height="40"/> <img src="[https://skillicons.dev/icons?i=supabase](https://skillicons.dev/icons?i=supabase)" title="Supabase" height="40"/> <img src="[https://skillicons.dev/icons?i=firebase](https://skillicons.dev/icons?i=firebase)" title="Firebase" height="40"/> |
-| **Infrastructure & Tools** | <img src="[https://skillicons.dev/icons?i=linux](https://skillicons.dev/icons?i=linux)" title="Linux" height="40"/> <img src="[https://skillicons.dev/icons?i=kali](https://skillicons.dev/icons?i=kali)" title="Kali Linux" height="40"/> <img src="[https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)" title="Git" height="40"/> <img src="[https://skillicons.dev/icons?i=postman](https://skillicons.dev/icons?i=postman)" title="Postman" height="40"/> <img src="[https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)" title="Jira (Project Management)" height="40"/> |
-| **UI/UX Design** | <img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" title="Tailwind CSS" height="40"/> <img src="[https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)" title="Bootstrap" height="40"/> <img src="[https://skillicons.dev/icons?i=figma](https://skillicons.dev/icons?i=figma)" title="Figma" height="40"/> |
+| **Frameworks & Runtimes** | [![Skill Icons](https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,flutter,vue,express,django,fastapi,hono)](https://skillicons.dev) |
+| **Languages** | [![Skill Icons](https://skillicons.dev/icons?i=ts,js,php,py)](https://skillicons.dev) |
+| **Backend & Cloud Databases** | [![Skill Icons](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase)](https://skillicons.dev) |
+| **Infrastructure & Tools** | [![Skill Icons](https://skillicons.dev/icons?i=linux,kali,git,postman)](https://skillicons.dev) <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" height="40" alt="Jira" /> |
+| **UI/UX Design** | [![Skill Icons](https://skillicons.dev/icons?i=tailwind,bootstrap,figma)](https://skillicons.dev) |
 
-*Integrated Skills: RESTful APIs Development, Architecture, and Agile Workflows.*
+*Integrated Skills: RESTful APIs Development, Architecture, and Agile Workflows.*[cite: 1]
 
 ---
 
 ### 🚀 Featured Projects
 
-- **PanganKU** — Integrated e-grocery ecosystem comprising a cross-platform mobile application (Flutter) for customers and a web dashboard (Laravel & React via Inertia.js) for inventory management, powered by secure RESTful APIs.
-- **UPZIS PNL Information System** — Digitalized donation platform featuring automated Zakat calculations, payment gateway integration (GoPay, Dana, Cash), and an administrative back-office with real-time financial reporting (PDF/Excel).
-- **UKM POLICY Community Platform** — Official community and blogging web platform built with Laravel, React.js, Tailwind CSS, and MySQL, developed under Agile/Scrum project management.
-- **Kasir Internet (POS)** — Point-of-sale system featuring strict Role-Based Access Control (RBAC) across Owners, Distributors, and Cashiers with automated financial and loss-prevention tracking.
+- **PanganKU** — Integrated e-grocery ecosystem comprising a cross-platform mobile application (Flutter) for customers and a web dashboard (Laravel & React via Inertia.js) for inventory management, powered by secure RESTful APIs[cite: 1].
+- **UPZIS PNL Information System** — Digitalized donation platform featuring automated Zakat calculations, payment gateway integration (GoPay, Dana, Cash), and an administrative back-office with real-time financial reporting (PDF/Excel)[cite: 1].
+- **UKM POLICY Community Platform** — Official community and blogging web platform built with Laravel, React.js, Tailwind CSS, and MySQL, developed under Agile/Scrum project management[cite: 1].
+- **Kasir Internet (POS)** — Point-of-sale system featuring strict Role-Based Access Control (RBAC) across Owners, Distributors, and Cashiers with automated financial and loss-prevention tracking[cite: 1].
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- **Certified Web Developer** — Badan Nasional Sertifikasi Profesi (BNSP)
-- **Certified Junior Web Developer** — BNSP & Digital Talent Scholarship (DTS)
-- **National Finalist in Web Technologies** — Lomba Kompetensi Siswa (LKS) National Level
+- **Certified Web Developer** — Badan Nasional Sertifikasi Profesi (BNSP)[cite: 1]
+- **Certified Junior Web Developer** — BNSP & Digital Talent Scholarship (DTS)[cite: 1]
+- **National Finalist in Web Technologies** — Lomba Kompetensi Siswa (LKS) National Level[cite: 1]
 
 ---
 
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriskisyahputraa2&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriskisyahputraa2&theme=tokyonight)" alt="Riski's GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriskisyahputraa2&theme=tokyonight" alt="Riski's GitHub Stats" width="100%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Software Engineer with a solid foundation in architecting scalable web applicati
 ### 📈 My Coding Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg)">
-  <img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mriskisyahputraa2/mriskisyahputraa2/output/github-contribution-grid-snake.svg">
 </picture>
